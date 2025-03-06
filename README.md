@@ -1,6 +1,4 @@
-# Proyecto de Gestión de Productos en React
-
-Este proyecto es una aplicación en React que permite registrar productos con cálculo automático del precio con IVA, la aplicación de descuentos y la generación dinámica de una tabla con los productos ingresados.
+# Taller de gestion de productos
 
 ## Estructura del Proyecto
 
@@ -169,5 +167,4 @@ function ListaProds({ productos }) {
 export default ListaProds;
 ```
 
-¡Este proyecto es totalmente funcional y escalable! 🚀
 
