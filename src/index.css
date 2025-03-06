@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.input-form{
+    @apply flex flex-col
+}
+
+.input-form input{
+    @apply border
+}
